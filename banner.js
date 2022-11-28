@@ -86,7 +86,7 @@ else {
     left.style.maxHeight = "40px"
 
 
-    right.innerHTML = "<table><tr ><td style='text-align:center'>GET 10% OFF</td><td style='text-align:center'>Use Code: EXAMSTART</td></table>";
+    right.innerHTML = "<table><tr ><td style='text-align:center'><b>GET 10% OFF</b></td><td style='text-align:center'>Use Code: <b>EXAMSTART</b></td></table>";
     right.style.width = "82vw"
     timer.style.height = "30px"
     timer.style.fontSize = "17px"
