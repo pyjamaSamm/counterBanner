@@ -1,5 +1,5 @@
 // counter counts upto this deadline
-var deadline = new Date("Nov 28, 2022 16:34:25").getTime();
+var deadline = new Date("Nov 30, 2022 18:34:25").getTime();
 
 // gets the current window size
 let res_w = window.innerWidth
