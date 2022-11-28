@@ -81,7 +81,7 @@ else {
     clock.style.alignItems = "flex-end"
     clock.style.margin = "auto"
 
-    clock.innerHTML = "<img style='height: 30px; margin-right: 10px; object-fit: contain; float:left' src='https://cdn-icons-png.flaticon.com/512/3193/3193311.png'><p style='font-size: 17px; margin-bottom:0;text-decoration:underline;text-underline-offset: 8px;text-decoration-color:gray'><b>LIMITED TIME OFFER<b><hr></p>";
+    clock.innerHTML = "<img style='height: 30px; margin-right: 10px; object-fit: contain; float:left' src='https://cdn-icons-png.flaticon.com/512/3193/3193311.png'><p style='font-size: 17px; margin-bottom:0;text-decoration:underline;text-underline-offset: 8px;text-decoration-color:gray'><b>Limited Time Offer<b><hr></p>";
     left.appendChild(clock)
     left.style.maxHeight = "40px"
 
