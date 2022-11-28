@@ -18,8 +18,6 @@ let timer = document.createElement("div")
 timer.style.height = "30px"
 let right = document.createElement("div")
 
-console.log("h :" + res_h)
-
 // for responsive design
 if (res_w >= 474) {
     div1.style.height = "3.2vh";
