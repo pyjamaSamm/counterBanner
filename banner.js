@@ -35,6 +35,7 @@ if (res_w >= 474) {
     clock.style.maxWidth = "150px";
     clock.style.maxHeight = "90px";
     clock.style.display = "inline"
+    // writes the needed content
     clock.innerHTML = "<img style='height: 100%; margin-right:4px; object-fit: contain;max-height: 90px; float:left' src='https://cdn-icons-png.flaticon.com/512/3193/3193311.png'><p style='font-size: max(1.4vw, 9px); margin-top: 2.5px; font-weight: 700;'>LIMITED TIME OFFER</p>";
     left.appendChild(clock)
     left.style.maxHeight = "40px"
@@ -44,6 +45,7 @@ if (res_w >= 474) {
 
 
     var x = setInterval(function () {
+        // gets the current track to update the counter
         var now = new Date().getTime();
         var t = deadline - now;
         var hours = Math.floor((t % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
@@ -64,7 +66,7 @@ if (res_w >= 474) {
     div1.style.scale = 1
 
 }
-
+// for smaller devices
 else {
     div1.style.height = "22.2vh";
     div1.style.margin = "auto"
