@@ -13,6 +13,6 @@ Screenshots:
 
 ![8(1)](https://user-images.githubusercontent.com/74822950/204283115-a2e1938f-b5e4-4b8e-9f67-9a0027a4b291.PNG)
 
-![10(1)](https://user-images.githubusercontent.com/74822950/204283570-173c61e9-375b-4620-9ec2-2f4111bc7cb9.PNG)
+![10(1)](https://user-images.githubusercontent.com/74822950/204283945-8a109174-539b-410f-8cd3-6a661a8441a7.PNG)
 
 Note : To view responsive cases, refresh the window first and then run the code from the console.
